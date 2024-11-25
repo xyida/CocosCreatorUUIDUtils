@@ -1,0 +1,2 @@
+# CocosCreatorUUIDUtils
+CocosCreator编辑器对于uuid操作的util类
